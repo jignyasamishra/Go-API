@@ -4,7 +4,7 @@ import (
 	"errors"
 	"net/http"
 
-	"github.com/jignnyasamishra/Go-API/api"
+	"github.com/jignyasamishra/Go-API/api"
 	log "github.com/sirupsen/logrus"
 )
 
